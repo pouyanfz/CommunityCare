@@ -1,6 +1,6 @@
 # CommunityCare
 **CPSC 304 Course Project**
-
+![Home Page](/Documentation/ScreenShots/1.png)
 ---
 
 ## Project Summary
@@ -69,11 +69,16 @@ Example operations include insert, update, delete, and query endpoints for core 
 ---
 ### Screenshot
 ![ER Diagram](/Documentation/ScreenShots/ER%20Diagram.png)
-![Home Page](/Documentation/ScreenShots/1.png)
+
 ![Community Members](/Documentation/ScreenShots/2.png)
+
 ![Donation](/Documentation/ScreenShots/3.png)
+
 ![Add Donation](/Documentation/ScreenShots/4.png)
+
 ![Project](/Documentation/ScreenShots/5.png)
+
 ![Campaign](/Documentation/ScreenShots/6.png)
+
 ![Update Members](/Documentation/ScreenShots/7.png)
 
